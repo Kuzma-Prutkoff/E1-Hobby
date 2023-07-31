@@ -1,0 +1,62 @@
+.navigation {
+	background-color: black;
+	height: 100%;
+	padding: 25px 30px;
+}
+
+.navigation h1 {
+    color: blue;
+    text-align: left;
+    padding: 5px 50px;
+    font-size: 30px;
+    font-family: verdana;
+}
+
+.navigation a {
+    height: 100%;
+    float: right;
+    padding: 0px 20px;
+
+}
+
+.navigation a li{
+    vertical-align: middle;
+    font-size: 20px;
+    color: white;
+}
+
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+.h2 {
+    padding: 10px 10px;
+}
+
+
+
+.table {
+    padding: 5px;
+}
+
+.content img{
+    float: left;
+}
+
+.table p{
+    font-size: 30px;
+
+}
+.table q{
+    font-size: 20px;
+}
+
+
+
+
+.footer p{
+    float: left;
+    background-color: green;
+    padding: 10px 10px;
+}
